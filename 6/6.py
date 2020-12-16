@@ -8,4 +8,4 @@ for i in range(101):
     preSquaredSum += i
 squaredSum = preSquaredSum*preSquaredSum
 
-print(squaredSum - sumSquares)
+print(squaredSum -  sumSquares)
