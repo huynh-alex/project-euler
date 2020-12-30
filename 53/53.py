@@ -16,5 +16,4 @@ def ncrUpto(n):
                 vals+=1
     return vals
 
-print(ncrUpto(100))
 print(ncr(23,10))
